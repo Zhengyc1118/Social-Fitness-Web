@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.elec5619fitnesswebapp.service.UserServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-10-29T05:30:02" hostname="DESKTOP-H7IFE0S" time="0.159">
+  <properties/>
+  <testcase name="getModelOfUserTest()" classname="com.example.elec5619fitnesswebapp.service.UserServiceTest" time="0.002"/>
+  <testcase name="stringToLocalDateTest()" classname="com.example.elec5619fitnesswebapp.service.UserServiceTest" time="0.005"/>
+  <testcase name="findAllTest()" classname="com.example.elec5619fitnesswebapp.service.UserServiceTest" time="0.003"/>
+  <testcase name="tryLoginFalseTest()" classname="com.example.elec5619fitnesswebapp.service.UserServiceTest" time="0.075"/>
+  <testcase name="tryLoginTrueTest()" classname="com.example.elec5619fitnesswebapp.service.UserServiceTest" time="0.067"/>
+  <system-out><![CDATA[2023-10-29T16:30:02.789+11:00  INFO 25552 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.elec5619fitnesswebapp.service.UserServiceTest]: UserServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-29T16:30:02.790+11:00  INFO 25552 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.elec5619fitnesswebapp.Elec5619FitnessWebAppApplication for test class com.example.elec5619fitnesswebapp.service.UserServiceTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
