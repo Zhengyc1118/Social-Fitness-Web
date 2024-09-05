@@ -5,7 +5,7 @@ The interactive group fitness tracker is designed to tackle the common struggles
 - Java Spring Boot
 - React
 - MySQL
-- Socket.io
+- Websocket
 - JUnit
 - Third Party API
 
